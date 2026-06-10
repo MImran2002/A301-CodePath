@@ -7,7 +7,7 @@ CodePath X Github Open-source contribution
 **Student:** Imran (NYAN LIN ZAW)  
 **Issue:** https://github.com/Yoast/wordpress-seo/issues/5003  
 **Status:** Phase I – In Progress
-**Fork link** https://github.com/MImran2002/wordpress-seo.git
+**Fork link:** https://github.com/MImran2002/wordpress-seo.git
 ---
 
 
